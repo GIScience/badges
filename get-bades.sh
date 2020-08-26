@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BADGES=(experimental active hibernate archive)
-COLORS=(orange       blue   orange    red)
+COLORS=(orange       blue   lightgray red)
 
 OUTDIR=status
 
